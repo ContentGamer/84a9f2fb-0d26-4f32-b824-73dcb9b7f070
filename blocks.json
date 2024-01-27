@@ -1,8 +1,4 @@
 {
-  "triggers": [
-    { "name": "startpos", "blockID": 31, "type": 1 },
-    { "name": "fake_startpos", "blockID": 34, "type": 1 }
-  ],
   "blocks": [
     { "name": "cube", "blockID": 1, "type": 1 },
     { "name": "cube", "blockID": 1, "type": 2 },
