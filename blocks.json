@@ -206,7 +206,7 @@
     { "name": "camera_rotate|crotate", "blockID": 2015, "type": 1 },
     { "name": "camera_edge|cedge", "blockID": 2062, "type": 1 },
     { "name": "reverse", "blockID": 1917, "type": 1 },
-    { "name": "end", "blockID": 1931, "type": 1 },
+    { "name": "end", "blockID": 3600, "type": 1 },
     { "name": "scale", "blockID": -11, "type": 1 },
     { "name": "subzero_unknown|usubzero", "blockID": 1932, "type": 1 }
   ],
