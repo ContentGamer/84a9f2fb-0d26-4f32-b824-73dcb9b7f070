@@ -203,6 +203,8 @@
     { "name": "camera_zoom|czoom", "blockID": 1913, "type": 1 },
     { "name": "camera_static|cstatic", "blockID": 1914, "type": 1 },
     { "name": "camera_offset|coffset", "blockID": 1916, "type": 1 },
+    { "name": "camera_rotate|crotate", "blockID": 2015, "type": 1 },
+    { "name": "camera_edge|cedge", "blockID": 2062, "type": 1 },
     { "name": "reverse", "blockID": 1917, "type": 1 },
     { "name": "end", "blockID": 1931, "type": 1 },
     { "name": "scale", "blockID": -11, "type": 1 },
@@ -217,7 +219,8 @@
     { "name": "black", "blockID": 1330, "type": 1 },
     { "name": "green_dash", "blockID": 1704, "type": 1 },
     { "name": "magenta_dash", "blockID": 1751, "type": 1 },
-    { "name": "trigger_orb", "blockID": 1594, "type": 1 }
+    { "name": "trigger_orb", "blockID": 1594, "type": 1 },
+    { "name": "dash_orb|dorb", "blockID": 3004, "type": 1 }
   ],
   "pads": [
     { "name": "yellow", "blockID": 35, "type": 1 },
