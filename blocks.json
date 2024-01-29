@@ -208,6 +208,7 @@
     { "name": "reverse", "blockID": 1917, "type": 1 },
     { "name": "end", "blockID": 3600, "type": 1 },
     { "name": "scale", "blockID": -11, "type": 1 },
+    { "name": "reverse_gameplay|rgameplay", "blockID": 2900, "type": 1 },
     { "name": "subzero_unknown|usubzero", "blockID": 1932, "type": 1 }
   ],
   "orbs": [
